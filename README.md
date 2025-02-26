@@ -4,7 +4,7 @@ This project aims to predict real estate prices using a linear regression model.
 
 ## Project Overview
 
-Real estate price prediction is a classic regression problem. In this project, we use a dataset containing various features of properties (e.g., square footage, number of bedrooms, location, age) to predict their sale price. The main steps include:
+Real estate price prediction is a classic regression problem. In this project, we use a dataset containing various property features such as transaction date, house age, distance to the nearest MRT station, number of convenience stores, latitude, and longitude to predict the house price of a unit area. The main steps include:
 
 - **Data Preprocessing:**  
   Cleaning and preparing the data, handling missing values, and feature engineering.
